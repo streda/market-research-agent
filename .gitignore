@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+starter/chromadb/chroma.sqlite3
+starter/chromadb/*/*.bin
+# Ignore ChromaDB persistence
+chromadb/
+
+Phase_2_Report.md
